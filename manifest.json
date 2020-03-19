@@ -1,0 +1,16 @@
+{
+  "name": "Gweta FoodCorner",
+  "short_name": "Gweta FoodCorner",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#E7FF33",
+  "theme_color": "#E7FF33",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/dish.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
